@@ -1,2 +1,4 @@
 Hola Carla
 he realializado una modificación para realizar un git pull
+vuelvo a realizar un cambio para hacer otra vez desde la terminal un git add.   git status   git commit -m   y un git push origin master
+
